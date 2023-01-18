@@ -1,9 +1,19 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif)
 
 
+
+
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/osmanAskin/count.svg" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Osman Orhan Aşkın</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanaskin&label=Profile%20views&color=0e75b6&style=flat" alt="osmanaskin" /> </p>
