@@ -10,8 +10,8 @@
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  
-
+  />
+</picture>
 
 <h1 align="center"> Hello 👋, I'm Osman Orhan Aşkın</h1>
 <h3 align="center"> Game Developer From Turkey</h3>
