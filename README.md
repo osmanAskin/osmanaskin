@@ -4,12 +4,6 @@
 
 
 
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/osmanAskin/count.svg" />
-</p>
 
 <h1 align="center"> Hello 👋, I'm Osman Orhan Aşkın</h1>
 <h3 align="center"> Game Developer From Turkey</h3>
