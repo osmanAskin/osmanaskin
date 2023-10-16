@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif)
 
-[![image](https://github.com/osmanAskin/osmanaskin/assets/115871580/e1e7df98-7cad-4422-8b77-8482b75d665d)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw2J4KCxxnh9yMC_na3B9xCP&ust=1697555812166000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjj76vu-oEDFQAAAAAdAAAAABAh)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw2J4KCxxnh9yMC_na3B9xCP&ust=1697555812166000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjj76vu-oEDFQAAAAAdAAAAABAh
 
 
 <h1 align="center"> Hello 👋, I'm Osman Orhan Aşkın</h1>
