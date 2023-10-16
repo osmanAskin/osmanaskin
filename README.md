@@ -11,8 +11,8 @@
   <img src="https://profile-counter.glitch.me/osmanAskin/count.svg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Osman Orhan Aşkın</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h1 align="center"> Hello 👋, I'm Osman Orhan Aşkın</h1>
+<h3 align="center"> Game Developer From Turkey</h3>
 
 
 
@@ -20,15 +20,6 @@
 
 <p align="left"> <a href="https://twitter.com/osmaan.askin" target="blank"><img src="https://img.shields.io/twitter/follow/osmaan.askin?logo=twitter&style=for-the-badge" alt="osmaan.askin" /></a> </p>
 
-- 🔭 I’m currently working on **PinkBall**
-
-- 🌱 I’m currently learning **unity and c#**
-
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **osmanorhanaskin@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
