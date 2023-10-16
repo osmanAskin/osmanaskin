@@ -13,10 +13,6 @@
   />
 </picture>
 
-<h1 align="center"> Hello 👋, I'm Osman Orhan Aşkın</h1>
-<h3 align="center"> Game Developer From Turkey</h3>
-
-
 
 <p align="left"> <a href="https://twitter.com/osmaan.askin" target="blank"><img src="https://img.shields.io/twitter/follow/osmaan.askin?logo=twitter&style=for-the-badge" alt="osmaan.askin" /></a> </p>
 
