@@ -13,8 +13,6 @@
   />
 </picture>
 
-[gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
-
-[github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
+[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L35)
 
 <
