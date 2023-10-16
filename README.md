@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center"> Hello 👋, I'm Osman Orhan Aşkın</h1>
+<h1 align="center"> **Hello 👋, I'm Osman Orhan Aşkın**</h1>
 <h1 align="center"> Game Developer From Turkey</h1>
 
 
