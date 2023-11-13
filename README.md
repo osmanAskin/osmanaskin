@@ -13,7 +13,7 @@
   />
 </picture>
 
-[![WakaTime](https://wakatime.com/badge/github/{osmanAskin}/{osmanAskin}.svg)](https://wakatime.com/badge/github/{KULLANICI_ADINIZ}/{PROJE_ADINIZ})
+[![WakaTime](https://wakatime.com/badge/osmanAskin/osman)](https://wakatime.com/badge/github/your-username/your-repository)
 
 
 
