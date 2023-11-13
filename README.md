@@ -13,6 +13,7 @@
   />
 </picture>
 
+[![WakaTime](https://wakatime.com/badge/github/{osmanAskin}/{osmanAskin}.svg)](https://wakatime.com/badge/github/{KULLANICI_ADINIZ}/{PROJE_ADINIZ})
 
 
 
