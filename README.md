@@ -13,8 +13,3 @@
   />
 </picture>
 
-<a href="https://wakatime.com/@BetaMode"><img src="https://wakatime.com/badge/user/d50f2d29-9644-4738-96ac-654f697da7b2.svg" /></a>
-
-
-
-<
